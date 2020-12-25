@@ -18,4 +18,6 @@ Let's go! What is happening above?
 
 '"$(pwd)":/ansible' We will set current folder we execute the command in a volume at "/ansible" in the container.
 
-'-w /ansible' We have set that folder as the working folder
+'-w /ansible' We have set that folder as the working folder.
+
+'renato81/ansible-in-docker' the docker image. You are free to use mine. But you are free to forke this repo and push up your own image. But be then you change this part.
